@@ -1,0 +1,19 @@
+.top { 
+  background-color: burlywood;
+
+}
+
+.middle {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(184, 157, 123);
+
+}
+
+.bottom {
+  border-bottom: black;
+  background-color: rgb(127, 144, 163);
+}
+
+.italic {
+  font-style: italic;
+}
